@@ -1,0 +1,10 @@
+:root {
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  background-color: hsl(212, 45%, 89%);
+  min-height: 100vh;
+}
